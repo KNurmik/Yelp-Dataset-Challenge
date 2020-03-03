@@ -1,0 +1,1 @@
+Place business.json and review.json in this directory!
